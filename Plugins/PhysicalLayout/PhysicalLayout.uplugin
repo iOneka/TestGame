@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 4,
+	"VersionName": "1.1",
+	"FriendlyName": "PhysicalLayout",
+	"Description": "Decorating your environment physically",
+	"Category": "Code Plugins",
+	"CreatedBy": "Saeid Gholizade",
+	"CreatedByURL": "http://saeidgholizade.ir",
+	"DocsURL": "https://drive.google.com/file/d/1xmkxHo_1br-GoOWql7RaxaHvv0io0x0j/view?usp=sharing",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/349bf2d4b1a945fa8f31db80fabf8058",
+	"SupportURL": "saeid.gholizade@gmail.com",
+	"EngineVersion": "5.3.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "PhysicalLayout",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}

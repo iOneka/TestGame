@@ -1,0 +1,8 @@
+{
+	"BuildId": "27405482",
+	"Modules": 
+	{
+		"DataTableFunctionLibrary": "UnrealEditor-DataTableFunctionLibrary.dll",
+		"DataTableFunctionLibraryEditor": "UnrealEditor-DataTableFunctionLibraryEditor.dll"
+	}
+}

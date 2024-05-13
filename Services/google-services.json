@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "453171753357",
+    "project_id": "somewhere-26271703",
+    "storage_bucket": "somewhere-26271703.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453171753357:android:65e2de429aba03bf738dc4",
+        "android_client_info": {
+          "package_name": "com.sistematik.somewhere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453171753357-p58f9af4jtrgm6fn01tcfk9n1fvloa85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMYSxUs9iBv8C8BUMc3qebXc7m8xxljFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453171753357-p58f9af4jtrgm6fn01tcfk9n1fvloa85.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "453171753357-ch003vdrf9i6v6mormei0ip8bupdnhrb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sistematik.somewhere"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

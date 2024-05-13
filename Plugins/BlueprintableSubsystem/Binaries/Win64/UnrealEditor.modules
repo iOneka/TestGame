@@ -1,0 +1,8 @@
+{
+	"BuildId": "27405482",
+	"Modules": 
+	{
+		"BlueprintableSubsystem": "UnrealEditor-BlueprintableSubsystem.dll",
+		"BlueprintableSubsystemEditor": "UnrealEditor-BlueprintableSubsystemEditor.dll"
+	}
+}

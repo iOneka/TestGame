@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 2000100,
+	"VersionName": "2.0.1",
+	"FriendlyName": "MonetizationGoodies",
+	"Description": "Handle in-app purchases and monetization with ease",
+	"Category": "Code Plugins",
+	"CreatedBy": "Nineva Studios",
+	"CreatedByURL": "https://ninevastudios.com/",
+	"DocsURL": "https://docs.ninevastudios.com/#/ue-plugins/google-play-unreal",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/49fe739557874e13a2b68496d646456b",
+	"SupportURL": "mailto:support@ninevastudios.com",
+	"EngineVersion": "5.3.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "MonetizationGoodies",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac",
+				"Android",
+				"IOS"
+			]
+		}
+	]
+}

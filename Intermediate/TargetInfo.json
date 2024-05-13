@@ -1,0 +1,24 @@
+{
+	"Targets": [
+		{
+			"Name": "SOMEWHERE",
+			"Path": "..\\Source\\SOMEWHERE.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SOMEWHEREClient",
+			"Path": "..\\Source\\SOMEWHEREClient.Target.cs",
+			"Type": "Client"
+		},
+		{
+			"Name": "SOMEWHEREEditor",
+			"Path": "..\\Source\\SOMEWHEREEditor.Target.cs",
+			"Type": "Editor"
+		},
+		{
+			"Name": "SOMEWHEREServer",
+			"Path": "..\\Source\\SOMEWHEREServer.Target.cs",
+			"Type": "Server"
+		}
+	]
+}

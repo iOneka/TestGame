@@ -1,0 +1,29 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "EditorTestsWidget",
+	"Description": "Automation tests for successful compilation of Widget Blueprints",
+	"Category": "Testing",
+	"CreatedBy": "Yasha Bogdanoff",
+	"CreatedByURL": "yasha.bogdanoff@gmail.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "EditorTestsWidget",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "EditorTests",
+			"Enabled": true
+		}
+	]
+}
